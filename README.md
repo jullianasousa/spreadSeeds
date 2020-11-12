@@ -12,5 +12,6 @@ Simulation of seed propagation in a terrain according to the origin of the wind.
 
 # Terminal
 ```javac PCOFASE1.java```
+
 ```java PCOFASE1```
 
